@@ -5,7 +5,7 @@ the MyDramaList website. The data had been collected and uploaded in the
  form of a CSV file and was allowed to be used on various Data Science 
 Projects. </p><p><b><u>Step 2: Data Modification</u></b></p><p><i>&nbsp;</i>I downloaded the CSV file and opened it in MS Excel. I realized that there were alot of columns that were not required or important enough for me so I made some modifications and then uploaded it to the<a href="https://colab.research.google.com/drive/1fc0pfTOWA3JBCHaJcwk73ihm8FovKI4Q#scrollTo=ZewWYq-tZxVE" target="_blank"> Google Collab</a> file that I was going to work on. Again, thanks to the already freely available, well organized dataset I didn't have much problem.So I moved on to the next step smoothly,</p><p><b><u>Step 3: Analysis and Visualization</u></b><br /></p><p>This is the part from which I started to use python code to analyze the data that I had in my hands.<br /> 
 <hr>
-...................To read more, please give <a href="https://nikhilrana2076.blogspot.com/?m=1">my blogs.</a> a visit........................
+...................To read more, please give <a href="https://nikhilrana2076.blogspot.com/?m=1">my blogs</a> a visit........................
 <hr>
 </p>
 
